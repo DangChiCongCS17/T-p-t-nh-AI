@@ -1,1 +1,2 @@
-# T-p-t-nh-AI
+#ML
+1st ez: Linear Regression
