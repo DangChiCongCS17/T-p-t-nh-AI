@@ -1,2 +1,14 @@
-#ML
-1st ez: Linear Regression
+Testing with 1 column RM --- Model 1
+-------------------------------------
+(379, 1)
+(127, 1)
+(379, 1)
+(127, 1)
+x shape:  (379, 2)
+y shape:  (379, 1)
+weight shape:  (2, 1)
+train_size:  379
+Weights found after 1000 epoch:
+  [[ 0.73247912]
+ [-0.00389594]]
+Loss =  0.23312130961408592
